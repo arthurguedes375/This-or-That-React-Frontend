@@ -17,7 +17,7 @@
 - Commit your changes
 - Make a pull request
 
-## Tips
+## :bulb: Tips
 - If you want to restart the app, press <kbd>F12</kbd> go to Application, Select the `Local Storage`, select the first option then delete the field `page`(just press with right button on that and hit on delete)
 
 ![Restart the App](readme/restart.gif)
