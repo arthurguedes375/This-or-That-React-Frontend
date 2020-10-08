@@ -15,6 +15,13 @@ export const Card = styled.div`
 
     transition: ease 0.4s;
 
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
     &:hover {
         filter: brightness(1.40);
     }
