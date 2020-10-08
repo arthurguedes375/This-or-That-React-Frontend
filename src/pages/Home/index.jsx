@@ -62,7 +62,7 @@ function Home() {
 
     return (
         <Container>
-            <h1>This or That</h1>
+            <h1>This <span>OR</span> That</h1>
             {(!finish)
                 ? (
                     <Cards>
