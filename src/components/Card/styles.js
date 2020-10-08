@@ -4,6 +4,9 @@ export const Card = styled.div`
     width: 50%;
     height: 100%;
 
+    padding: 100px;
+    word-break: normal;
+
     display: flex;
     justify-content: center;
     align-items: center;
